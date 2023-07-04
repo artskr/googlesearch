@@ -1,7 +1,7 @@
 beautifulsoup4>=4.9
 requests>=2.20
 setuptools~=67.8.0
-zlib~=1.2.13
+#zlib~=1.2.13
 brotli~=1.0.9
 cbrotlipy==0.7.0
 bzip2~=1.0.8
